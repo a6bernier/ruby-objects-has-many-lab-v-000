@@ -14,14 +14,14 @@ class Post
     @@all
   end
 
-
-  def author_name
-    if author_name.name
-      author_name.name
-    else
-      nil
-    end
-  end
+  #
+  # def author_name
+  #   if author_name.name
+  #     author_name.name
+  #   else
+  #     nil
+  #   end
+  # end
 
 
 
