@@ -22,15 +22,5 @@ class Post
     end
   end
 
-  #
-  # def author_name
-  #   if author_name.name
-  #     author_name.name
-  #   else
-  #     nil
-  #   end
-  # end
-
-
 
 end #ends class Post
